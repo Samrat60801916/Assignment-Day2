@@ -1,6 +1,6 @@
 # Assignment-Day2
 
-# HACKERNEWS
+# HACKERNEWS.  ---- MVVM
 
 ## **TASK**
 
